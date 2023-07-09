@@ -51,6 +51,7 @@ session_start();
             <p>
                 <?php echo $item["harga"]; ?>
             </p>
+            <input type = "submit" value= "pilih">
         </div>
         <?php
     }
